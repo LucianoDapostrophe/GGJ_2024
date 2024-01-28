@@ -1,23 +1,37 @@
 Characters & Objects
+====================
+Title Card / Comrade Carp and Bob Sprites by KJ Neely
+https://www.artstation.com/kjneely
+
+Mother Fish by Heather Lee Harvey / Special Thanks to EmeraldActivities.com & http://opengameart.org/users/emerald
 https://opengameart.org/content/loyalty-lies-monsters-earth-monster-15
-https://opengameart.org/content/sea-and-underwater-assets
+
+Fishing Bobbles by Nelson Yiap & HappyGo Games
 https://opengameart.org/content/fishing-bobbles-spritesheet-24x24
-https://opengameart.org/content/16px-materials
-https://opengameart.org/content/heroic-sunfish
-https://opengameart.org/content/pufferfish
+
+Fish & Fishermen Sprites by CraftPix.net 2D Game Assets
 https://opengameart.org/content/fishing-game-assets-pixel-art
+
+Cat by Maygonpepetreynsh
 https://opengameart.org/content/pixel-animals
+
+Goldfish by Volcano of Bears
 https://opengameart.org/content/goldfish-8-bit-ish-sprite
-https://opengameart.org/content/scuba-stu-swordfish-and-sea-turtles-pack
-https://opengameart.org/content/basic-fish-and-parrotfish
+
+Wooden Barrel by carnageddon
+https://opengameart.org/content/wooden-barrel-0
 
 Tilesets
-https://opengameart.org/content/desert-tileset-0
-https://opengameart.org/content/happyland-tileset
-https://opengameart.org/content/cave-tileset-0
-https://opengameart.org/content/sewer-tileset
-https://opengameart.org/content/house-tileset-blackguard
+=======
+Dock Tileset by Reid
 https://opengameart.org/content/dock-tileset
-https://opengameart.org/content/32x32-sci-fi-tileset
-https://opengameart.org/content/lpc-wooden-furniture
-https://opengameart.org/content/whispers-of-avalon-grassland-tileset
+
+Music
+=====
+Originally Performed by Olaf, Lars and George Sveen of Saskatchewan, Canada
+
+Main Menu Theme
+https://www.youtube.com/watch?v=yet5i9ZHjnQ
+
+Gameplay Theme
+https://www.youtube.com/watch?v=ds6FvQoPoPI
